@@ -3,6 +3,7 @@
 A high-efficiency web utility for generating advanced search queries to locate publicly accessible file directories. This tool automates the construction of Google Dorks, specifically targeting server indexes to find direct download links for media, software, and documents.
 
 ---
+<img src="og-image.png">
 
 ## Project Overview
 
